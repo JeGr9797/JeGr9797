@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JeGr9797
+- 👋 Hi, I’m José Emmanuel Gómez-Rocha aka @JeGr9797
 - 👀 I’m interested in mathematical programmig (stochastic programming)
 - 🌱 I’m currently a PhD student at Tecnologico de Monterrey
 - 💞️ I’m looking to collaborate on stochastic programming
