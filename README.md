@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeGr9797
 - 👀 I’m interested in mathematical programmig (stochastic programming)
-- 🌱 I’m currently learning python
+- 🌱 I’m currently a PhD student at Tecnologico de Monterrey
 - 💞️ I’m looking to collaborate on stochastic programming
 - 📫 How to reach me emmanuel.gr@tec.mx or A01662477@tec.mx
 
