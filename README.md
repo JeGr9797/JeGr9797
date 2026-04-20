@@ -1,21 +1,26 @@
 # Hi there, I'm José Emmanuel Gómez-Rocha 👋
 
-I am a PhD student at Tecnológico de Monterrey passionate about operations research, mathematical programming, and optimization under uncertainty.
+I am a PhD student at Tecnológico de Monterrey specializing in operations research and mathematical optimization.
 
-My work focuses on the development of mathematical models and solution methods for complex decision-making problems, particularly in supply chains, service systems, and stochastic environments. I am especially interested in stochastic programming, bilevel optimization, and data-driven optimization approaches.
+My research is centered on the design of optimization models and algorithms for decision-making under uncertainty, with applications in supply chains, logistics, and service systems. My main interests include stochastic programming, bilevel optimization, mathematical programming, and data-driven optimization.
 
-## Areas of Interest
+## Research Interests
 - Operations research
 - Mathematical programming
 - Stochastic programming
 - Bilevel optimization
-- Supply chain analytics
+- Supply chain and logistics optimization
 - Data-driven decision-making
 
-## About Me
-- PhD Student at Tecnológico de Monterrey
-- Interested in optimization, analytics, and applied decision models
-- Open to academic and research collaborations
+## Tools and Methods
+- Python
+- Gurobi
+- Pyomo
+- Optimization modeling
+- Machine learning for prescriptive analytics
+
+## Current Position
+PhD Student at Tecnológico de Monterrey
 
 ## Contact
 - emmanuel.gr@tec.mx
