@@ -50,11 +50,6 @@ Tecnológico de Monterrey
 - **Email:** emmanuel.gr@tec.mx  
 - **Institutional email:** A01662477@tec.mx
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeGr9797&layout=compact&theme=default&hide_border=true" />
-</p>
 
 ## Research Vision
 
