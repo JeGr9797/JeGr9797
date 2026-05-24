@@ -1,4 +1,4 @@
-# Hi there, I'm José Emmanuel Gómez-Rocha 👋
+# Hi there, I'm José Emmanuel Gómez-Rocha 
 
 <p align="left">
   <a href="mailto:emmanuel.gr@tec.mx">
